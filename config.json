@@ -82,6 +82,35 @@
           "type": "text"
         }
       ]
+    },
+    {
+      "id": "consuming-rest-apis",
+      "title": "Consuming REST APIs — Requests & Postman",
+      "description": "Learn to call REST APIs with Python requests and Postman; parse JSON and handle errors.",
+      "path": "assignments/consuming-rest-apis",
+      "dueDate": "2026-06-18",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter_code.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "text"
+        },
+        {
+          "name": "Examples",
+          "file": "curl_examples.md",
+          "type": "text"
+        },
+        {
+          "name": "Postman Instructions",
+          "file": "postman_instructions.md",
+          "type": "text"
+        }
+      ]
     }
   ]
 }
